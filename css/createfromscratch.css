@@ -1,0 +1,111 @@
+.linkfont {
+    font-size: 20px ;
+    font-style: Manrope;
+    font-weight: bold;
+    color:white;
+}
+
+
+.headerbgcolor {
+    background-color: #263159;
+}
+
+.bgimg {
+    background-image: url(../assets/img/mywork/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.body {
+    width: absolute;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+    opacity: 0.75;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#434242
+  }
+
+.box2{
+    padding: 20px;
+}
+
+
+.imgpro {
+    width: 20%;
+    height: 20%;
+    
+}
+
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.body2 {
+    width: absolute;
+    padding: 50px;
+    margin: 20px;
+    background-color: lightgrey;
+    opacity: 0.75;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.youtube {
+    width: 500px;
+    height: 225px;
+}
+
+.center2 {
+    line-height: 200px;
+    height: 200px;
+    border: 3px ;
+    text-align: center;
+}
+
+.fonts {
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#434242;
+}
+
+.top{
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+a{color: grey;
+    text-decoration: none;
+}
+
+  
+a:visited{
+    color:black;
+}
+    
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 32px; 
+}
+
